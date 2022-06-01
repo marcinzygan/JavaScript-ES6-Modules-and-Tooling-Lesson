@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Topics in this lecture :",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinzygan/JavaScript-ES6-Modules-and-Tooling-Lesson.git"
+  },
+  "author": "Marcin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinzygan/JavaScript-ES6-Modules-and-Tooling-Lesson/issues"
+  },
+  "homepage": "https://github.com/marcinzygan/JavaScript-ES6-Modules-and-Tooling-Lesson#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}

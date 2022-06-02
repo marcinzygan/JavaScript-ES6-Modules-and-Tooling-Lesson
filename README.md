@@ -9,3 +9,4 @@ Topics in this lecture :
 - Bundling with Parcel and NPM scripts
 - Configuring Babel and Polyfilling
 - Declarative and Functional JavaScript Principles
+- Clean and modern JavaScript practices

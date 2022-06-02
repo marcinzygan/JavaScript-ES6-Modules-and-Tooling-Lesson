@@ -2,9 +2,9 @@
   "name": "starter",
   "version": "1.0.0",
   "description": "Topics in this lecture :",
-  "main": "clean.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/marcinzygan/JavaScript-ES6-Modules-and-Tooling-Lesson#readme",
   "dependencies": {
     "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
   }
 }

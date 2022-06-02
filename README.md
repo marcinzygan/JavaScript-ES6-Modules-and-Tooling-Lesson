@@ -7,3 +7,5 @@ Topics in this lecture :
 - Module pattern
 - NPM
 - Bundling with Parcel and NPM scripts
+- Configuring Babel and Polyfilling
+- Declarative and Functional JavaScript Principles
